@@ -1,5 +1,5 @@
 joekarow/.github:
-  - source: "/*.yml"
+  - source: "./*.yml"
     dest: workflow-templates/
-  - source: "/*.json"
+  - source: "./*.json"
     dest: workflow-templates/
