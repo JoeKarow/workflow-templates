@@ -1,4 +1,0 @@
-joekarow/.github:
-  - source: templates/
-    dest: workflow-templates/
-    deleteOrphaned: true
